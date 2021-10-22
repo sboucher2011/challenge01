@@ -6,7 +6,7 @@ Horiseon's website that offers website optimization services and explains the im
 This website was challenge 01 of Winter 2021 UCF's Full Stack boot camp.  The purpose of this assigment was to add accessability and semantic elements to both the HTML and CSS.  The assigment also covered CSS clean up and GitHub upload and hosting with Pages.
 
 ## Website Preview
-![alt text](https://github.com/sboucher2011/challenge01/blob/main/assets/website_image_for_readme.png)
+![alt text](https://github.com/sboucher2011/challenge01/blob/main/assets/images/website_image_for_readme.png)
 
 ## Built With
 * HTML
